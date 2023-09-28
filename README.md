@@ -4,3 +4,6 @@ This Project was developed with C#, ADO.NET and MySql by me that represents a si
 for running the project you need to have visusal studio and the followed extensions:
 1_Mysql
 2_ .NET Framework
+
+
+check my website for more tutorials and programming projects https://alternateco.com
